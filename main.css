@@ -1,0 +1,21 @@
+.navbar{
+  border:1px red solid;
+  display: flex;
+  justify-content: center;
+}
+nav{
+  display: flex;
+  border:1px green solid;
+  flex:2;
+}
+ul{
+  border:1px blue solid;
+  display: flex;
+}
+.logo{
+  border:1px purple solid;
+}
+.buttons{
+  border:1px orangered solid;
+  flex: 1;
+}
